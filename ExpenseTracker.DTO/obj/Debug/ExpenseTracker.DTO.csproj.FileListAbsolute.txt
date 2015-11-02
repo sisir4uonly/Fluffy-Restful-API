@@ -1,0 +1,5 @@
+H:\ASP .NET\Batch 1\Building and Securing a RESTful API for Multiple Clients in ASP.NET\Excercise\building-securing-restful-api-aspdotnet\6-exercise-files\1_get\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+H:\ASP .NET\Batch 1\Building and Securing a RESTful API for Multiple Clients in ASP.NET\Excercise\building-securing-restful-api-aspdotnet\6-exercise-files\1_get\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+H:\ASP .NET\Batch 1\Building and Securing a RESTful API for Multiple Clients in ASP.NET\Excercise\building-securing-restful-api-aspdotnet\6-exercise-files\1_get\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojResolveAssemblyReference.cache
+H:\ASP .NET\Batch 1\Building and Securing a RESTful API for Multiple Clients in ASP.NET\Excercise\building-securing-restful-api-aspdotnet\6-exercise-files\1_get\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+H:\ASP .NET\Batch 1\Building and Securing a RESTful API for Multiple Clients in ASP.NET\Excercise\building-securing-restful-api-aspdotnet\6-exercise-files\1_get\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb

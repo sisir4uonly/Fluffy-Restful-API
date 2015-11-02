@@ -1,0 +1,11 @@
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojResolveAssemblyReference.cache
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\Users\What\Desktop\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb

@@ -1,0 +1,9 @@
+H:\ASP .NET\Batch 1\Building and Securing a RESTful API for Multiple Clients in ASP.NET\Excercise\building-securing-restful-api-aspdotnet\6-exercise-files\1_get\end\ExpenseTracker.Constants\bin\Debug\ExpenseTracker.Constants.dll
+H:\ASP .NET\Batch 1\Building and Securing a RESTful API for Multiple Clients in ASP.NET\Excercise\building-securing-restful-api-aspdotnet\6-exercise-files\1_get\end\ExpenseTracker.Constants\bin\Debug\ExpenseTracker.Constants.pdb
+H:\ASP .NET\Batch 1\Building and Securing a RESTful API for Multiple Clients in ASP.NET\Excercise\building-securing-restful-api-aspdotnet\6-exercise-files\1_get\end\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.dll
+H:\ASP .NET\Batch 1\Building and Securing a RESTful API for Multiple Clients in ASP.NET\Excercise\building-securing-restful-api-aspdotnet\6-exercise-files\1_get\end\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.pdb
+C:\Users\What\Desktop\end\ExpenseTracker.Constants\bin\Debug\ExpenseTracker.Constants.dll
+C:\Users\What\Desktop\end\ExpenseTracker.Constants\bin\Debug\ExpenseTracker.Constants.pdb
+C:\Users\What\Desktop\end\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.csprojResolveAssemblyReference.cache
+C:\Users\What\Desktop\end\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.dll
+C:\Users\What\Desktop\end\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.pdb
